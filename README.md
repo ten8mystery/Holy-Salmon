@@ -10,4 +10,4 @@ If you give me an actual reason to (google form in site)
 ## Why are you so rude?!
 sybau bro ts pmo sm
 ## How would I deploy this?
-https://vercel.com/new/import?repository-name=Holy-Salmon&s=https%3A%2F%2Fgithub.com%2Ften8mystery%2FHoly-Salmon&teamSlug=fortnite-balls-projects
+https://vercel.com/new/import?repository-name=Holy-Salmon&s=https%3A%2F%2Fgithub.com%2Ften8mystery%2FHoly-Salmon
