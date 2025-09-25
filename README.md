@@ -4,7 +4,7 @@
 # HOLY SALMON
 ### welcome to my shitty site
 ## How was this made?
-its a fork of gn-math (im too stupid to code a whole site from scratch)
+its an edited fork of gn-math (im too stupid to code a whole site from scratch)
 ## Do you add games?
 If you give me an actual reason to (google form in site)
 ## Why are you so rude?!
