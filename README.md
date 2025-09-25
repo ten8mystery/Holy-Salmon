@@ -10,6 +10,6 @@ If you give me an actual reason to (google form in site)
 ## Why are you so rude?!
 sybau bro ts pmo sm
 ## How would I deploy this?
-https://vercel.com/new/import?repository-name=Holy-Salmon&s=https%3A%2F%2Fgithub.com%2Ften8mystery%2FHoly-Salmon
+https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ften8mystery%2FHoly-Salmon-1
 ## Wheres a list of official links?
 https://1drv.ms/w/c/ad36d84972f58b73/EdupM9IxWAJPpUGGzDLhSPYB7uEJcHUWeOGX_W0YjQX8LQ?e=7bcXd1
