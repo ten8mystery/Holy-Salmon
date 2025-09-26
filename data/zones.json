@@ -13,6 +13,14 @@
     "author": "Azur Games, Playgendary",
     "authorLink": "https://azurgames.com"
   },
+    {
+    "id": 10000,
+    "name": "Deltarune",
+    "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/deltarune.jpeg",
+    "url": "https://deltarune-two.vercel.app/",
+    "author": "ur mom",
+    "authorLink": ""
+  },
   {
     "id": 1,
     "name": "OvO",
