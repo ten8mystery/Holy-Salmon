@@ -14,11 +14,19 @@
     "authorLink": "https://azurgames.com"
   },
     {
-    "id": 10000,
+    "id": 525,
     "name": "Deltarune",
     "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/deltarune.jpeg",
     "url": "https://deltarune-two.vercel.app/",
-    "author": "ur mom",
+    "author": "Toby Fox",
+    "authorLink": ""
+  },
+      {
+    "id": 526,
+    "name": "Undertale",
+    "cover": "https://nightchannels.com/cdn/shop/files/undertale-sans_square-for-dark-colors_852b4f6d-09b5-4d7f-aeb2-d7c35d6ee37f.png",
+    "url": "https://undertale122.vercel.app/",
+    "author": "Toby Fox",
     "authorLink": ""
   },
   {
