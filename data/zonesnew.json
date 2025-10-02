@@ -4404,6 +4404,22 @@
     "author": "Eukaryot3K and SEGA",
     "authorLink": "https://sonic3air.org/" 
   },
+      {
+    "id": 552,
+    "name": "Deltarune",
+    "cover": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/deltarune.jpeg",
+    "url": "https://deltarune-two.vercel.app/",
+    "author": "Toby Fox",
+    "authorLink": ""
+  },
+        {
+    "id": 553,
+    "name": "Undertale",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7O5EZufNVJeF9-6eEGJ_D2UD8XtDH6pMfig&s",
+    "url": "https://undertale122.vercel.app/",
+    "author": "Toby Fox",
+    "authorLink": ""
+  },
   {
     "id": 551,
     "name": "Hypper Sandbox",
