@@ -4,7 +4,7 @@
         const searchBar = document.getElementById('searchBar');
         const sortOptions = document.getElementById('sortOptions');
         // https://www.jsdelivr.com/tools/purge
-        const zonesURL = "https://raw.githubusercontent.com/ten8mystery/Holy-Salmon-1/refs/heads/main/data/zones.json";
+        const zonesURL = "https://raw.githubusercontent.com/ten8mystery/Holy-Salmon/refs/heads/main/data/zones.json";
         const coverURL = "https://cdn.jsdelivr.net/gh/gn-math/covers@main";
         const htmlURL = "https://cdn.jsdelivr.net/gh/gn-math/html@main";
         let zones = [];
@@ -335,6 +335,7 @@
             return "";
 
         };
+
 
 
 
