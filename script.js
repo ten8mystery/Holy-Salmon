@@ -7,6 +7,7 @@
         const zonesURL = "https://raw.githubusercontent.com/ten8mystery/Holy-Salmon/refs/heads/main/data/zones.json";
         const coverURL = "https://cdn.jsdelivr.net/gh/gn-math/covers@main";
         const htmlURL = "https://cdn.jsdelivr.net/gh/gn-math/html@main";
+        const NewhtmlURL = "https://raw.githubusercontent.com/ten8mystery/Holy-Salmon-New-Html-Games-/refs/heads/main/";
         let zones = [];
         let popularityData = {};
         async function listZones() {
@@ -335,6 +336,7 @@
             return "";
 
         };
+
 
 
 
