@@ -4472,8 +4472,16 @@
     "id": 560,
     "name": "The Deportation",
     "cover": "https://i.imgflip.com/4cyjvf.jpg",
-    "url": "{NEWHTML_URL}/160.html",
+    "url": "{NEWHTML_URL}/560.html",
     "author": "Zinc",
+    "authorLink": ""
+  },
+      {
+    "id": 561,
+    "name": "Super Blaster 2D",
+    "cover": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1710830/c186bc3ab55c0c800ba3bd6d80b7c7228f05a65d.jpg",
+    "url": "{NEWHTML_URL}/561.html",
+    "author": "GDToothpaste",
     "authorLink": ""
   },
     {
