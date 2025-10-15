@@ -42,9 +42,14 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="dark-mode">
+
+    <script>
+        // This will display a simple browser alert box when the page finishes loading.
+        alert('Welcome to Holy Salmon! Dive into the deep to find your game.');
+    </script>
     <header>
         <div class="header-content">
-            <div class="logo">Holy Salmon (V1.2)</div>
+            <div class="logo">Holy Salmon (1.4)</div>
             <div class="search-container">
                 <input type="text" id="searchBar" placeholder="Search zones..." oninput="filterZones()">
                 <select id="sortOptions" onchange="sortZones()">
@@ -94,42 +99,3 @@
         <div class="popup">
             <div class="popup-header">
                 <h3 id="popupTitle">Title</h3>
-                <button id="popupClose" onclick="closePopup()">×</button>
-            </div>
-            <div id="popupBody">
-                Content will be here
-            </div>
-        </div>
-    </div>
-
-    <ins class="adsbygoogle"
-    style="display:block; text-align:center;"
-    data-ad-client="ca-pub-5521219086088837"
-    data-ad-slot="5549138288"
-    data-ad-format="auto"
-    data-full-width-responsive="true"></ins>
-   <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-   </script>
-    <footer>
-        <div class="footer-links">
-            <a href="#" onclick="showContact(); return false;">Contact</a>
-            <a href="#" onclick="loadPrivacy(); return false;">Privacy Policy</a>
-            <a href="javascript:saveData()">Export Data</a>
-            <label for="importData" style="color: var(--primary-color); cursor: pointer;">Import Data</label>
-            <input type="file" id="importData" style="display: none;" onchange="loadData(event)">
-        </div>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
-</html>
-
-
-
-
-
-
-
-
-
