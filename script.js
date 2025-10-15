@@ -94,7 +94,7 @@
             if (file.url.startsWith("http")) {
                 window.open(file.url, "_blank");
             } else {
-                const url = file.url.replace("{COVER_URL}", coverURL).replace("{HTML_URL}", htmlURL);
+                const url = file.url.replace("{COVER_URL}", coverURL).replace("{HTML_URL}", htmlURL).replace("{NEWHTML_URL}", NewhtmlURL)
                 fetch(url+"?t="+Date.now()).then(response => response.text()).then(html => {
                     if (zoneFrame.contentDocument === null) {
                         zoneFrame = document.createElement("iframe");
@@ -336,6 +336,7 @@
             return "";
 
         };
+
 
 
 
